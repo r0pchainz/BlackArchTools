@@ -70,7 +70,6 @@ git clone https://github.com/nccgroup/BinProxy/ &&
 git clone https://github.com/bmaia/binwally &&
 git clone https://github.com/sensepost/birp &&
 git clone https://github.com/nbshelton/bitdump &&
-git clone https://github.com/darkeyepy/blackbox &&
 ﻿git clone https://github.com/jedisct1/blacknurse && 
 git clone https://github.com/evilsocket/bleah && 
 git clone https://github.com/libeclipse/blind-sql-bitshifting && 
